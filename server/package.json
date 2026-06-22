@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "testdeck": "tsx src/game/testDeck.ts",
-    "testdeal": "tsx src/game/testDeal.ts"
+    "testdeal": "tsx src/game/testDeal.ts",
+    "testtrump": "tsx src/game/testTrump.ts"
   },
   "keywords": [],
   "author": "",
