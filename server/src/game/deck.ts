@@ -36,6 +36,10 @@ export class Deck {
         }
     }
 
+    draw(): Card | undefined {
+        return this.cards.pop();
+    }
+
     getCards(): Card[] {
         return [...this.cards];
     }

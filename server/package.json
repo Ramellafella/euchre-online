@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/index.ts",
-    "testdeck": "tsx src/game/testDeck.ts"
+    "testdeck": "tsx src/game/testDeck.ts",
+    "testdeal": "tsx src/game/testDeal.ts"
   },
   "keywords": [],
   "author": "",
